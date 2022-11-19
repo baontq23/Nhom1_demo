@@ -6,4 +6,4 @@ deployments:
 # Automatically trigger deploy on default branch passing
  on_push: true
 - name: staging
-- name: production
+- name: master
